@@ -7,7 +7,7 @@ import "fmt"
 
 // Объявление функции:
 func Hello() {
-        fmt.Println("Привет, Паскаль/Ассемблер!")
+        fmt.Println("Привет, Pascal&Assembly!")
 }
 
 // Объявление функции:
